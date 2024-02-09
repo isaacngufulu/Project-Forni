@@ -63,7 +63,7 @@ FONT SIZE SYSTEM (px)
   left: 50%;
   transform: translateX(-50%);
   background-color: #f9bf29;
-  height: 0.5rem;
+  height: 0.3rem;
   transition: all 0.3s ease-in-out;
   border-radius: 10rem;
   /* transform: translate(-50%, 50%); */
